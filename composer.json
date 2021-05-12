@@ -3,5 +3,7 @@
     "description": "accept bitcoin payments at WHMCS store",
     "type": "whmcs-gateways",
     "license": "GPL-3.0-or-later",
-    "require": {}
+    "require": {
+            "composer/installers": "^1.10"
+    }
 }
