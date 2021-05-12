@@ -1,9 +1,0 @@
-{
-    "name": "sc_plugin/whmcs-bitcoin-payment-gateway-plugin",
-    "description": "accept bitcoin payments at WHMCS store",
-    "type": "whmcs-gateways",
-    "license": "GPL-3.0-or-later",
-    "require": {
-            "composer/installers": "^1.10"
-    }
-}
