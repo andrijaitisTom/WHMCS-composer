@@ -9,7 +9,7 @@ To succesfully use this plugin, you have to have a SpectroCoin Bitcoin wallet. Y
 
 1. Upload module content to your WHMCS folder.<br />
 	OR <br />
-  Navigate to WordPress directory and run: <br />
+  Navigate to WHMCS directory and run: <br />
       <br />
     `composer require spectrocoin/whmcs-merchant`
 	<br />
