@@ -4,7 +4,7 @@
     "type": "whmcs-gateways",
      "version": "1.0.0",
     "keywords": [
-        "bitcoin", "btc", "xem", "dash", "spectrocoin", "merchant", "magento2", "gateway", "payment", "altcoin"
+        "bitcoin", "btc", "xem", "dash", "spectrocoin", "merchant", "whmcs", "gateway", "payment", "altcoin"
       ],
     "license": "GPL-3.0-or-later",
     "require": {
